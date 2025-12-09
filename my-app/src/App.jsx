@@ -16,7 +16,7 @@ function App() {
           <img src={cameraImg} alt="" className="w-14 h-14 border-3 border-solid border-black rounded-2xl p-2.5" />
         </header>
         <footer  className='fixed bottom-6 border-solid border-2 border-black rounded-full px-4 py-2 left-1/2 transform -translate-x-1/2 w-4/5 text-left'>
-          <p className='ml-7 font-bold'>Made by branly0</p>
+          <p className='ml-7 font-bold'>Made by branly0 </p>
         </footer>
       </div>
     </>
