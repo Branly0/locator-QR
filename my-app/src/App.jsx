@@ -70,7 +70,7 @@ function App() {
 
 
         <footer  className='fixed bottom-6 border-solid border-2 border-black rounded-full px-4 py-2 left-1/2 transform -translate-x-1/2 w-4/5 text-left'>
-          <p className='ml-7 font-bold'>Made by branly0</p>
+          <p className='ml-7 font-bold'>Made by branly0 </p>
         </footer>
       </div>
     </>
